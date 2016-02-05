@@ -1,0 +1,10 @@
+{
+    "filesToWatch": "/home/mansi.pattani/IdeaProjects/UserExample/src/main/webapp/static/**",
+    "directoryToWatch": "/home/mansi.pattani/IdeaProjects/UserExample/src/main/webapp/static",
+    "projectRootPath": "/home/mansi.pattani/IdeaProjects/UserExample",
+    "targetPath": "/home/mansi.pattani/IdeaProjects/UserExample/target",
+    "sourceDirectory": "src/main/webapp",
+    "jsSourceDirectory": "static",
+    "warTargetDirectory": "/",
+    "filteredFiles": ["**/node_modules.tar", "maven-properties.json", "exclude.me"]
+}
